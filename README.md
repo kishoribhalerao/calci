@@ -5,7 +5,7 @@ Fundamental mathematical calculations are required to be performed in every step
 
 Since android applications are the most compatible ones and easily available, android cell phones and tablets are the most widely used devices all over the world. They offer several kinds of facilities and one of them is calculator which is fundamental application of each phone. Looking at the growing use of android phones, it can be said that a Calculator app as Android Project has good scope in today’s technological world.
 
-Comparison:
+**Comparison:**
 
 The comparison between existing traditional calculators and the proposed Calculator app for Android can be done in the following points:
 
@@ -14,7 +14,7 @@ Power: A small battery power of cell phone is enough for running android calcula
 Accuracy: The accuracy of both the calculators depends upon their programming. Calculators can be designed for the desired accuracy.
 Cost: Android Calculator, being an application, can be downloaded free of cost and installed on phone. The traditional calculators have their own hardware. As a result of this, they need to be purchased.
 Ease and comfort: Most of the android cell phones are of touch screen type. So, calculator app Android is easy and comfortable to use.
-Features:
+**Features:**
 
 It is easy and comfortable to use.
 The application can be easily downloaded and installed on any android cell phone and tablet.
